@@ -1,0 +1,9 @@
+{
+    "name": "Deepseek-rag",
+    "version": "1.0.0",
+    "dependencies": ["."],
+    "graphs": {
+      "Deepseek-rag": "./src/graph.py:graph"
+    },
+    "env": ".env"
+  }
